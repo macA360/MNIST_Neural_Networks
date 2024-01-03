@@ -55,7 +55,7 @@ This project includes a script to apply a CNN to the MNIST dataset, a large data
 
 ## Insights and Observations
 ### Summary of Results
-The Convolutional Neural Network (CNN) model trained on the MNIST dataset achieved [mention the specific accuracy, e.g., 98%] accuracy. This high level of accuracy demonstrates the effectiveness of CNNs in image classification tasks, especially in recognizing patterns and features in images like handwritten digits.
+The Convolutional Neural Network (CNN) model trained on the MNIST dataset achieved >99% accuracy and >90% accuracy on the fashion MNST dataset. This high level of accuracy demonstrates the effectiveness of CNNs in image classification tasks, especially in recognizing patterns and features in images like handwritten digits.
 
 #### Interesting Findings
 - Feature Learning: The CNN's ability to learn features automatically from the data, as opposed to manual feature extraction, was particularly notable. It could identify intricate patterns in the digits that are crucial for classification.
