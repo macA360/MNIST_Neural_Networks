@@ -30,6 +30,8 @@ python script_name.py
 
 Replace script_name.py with the name of the script you want to run (e.g., mnistTrain.py).
 
-alternatively can be run from your chosen IDE. 
+Alternatively can be run from your chosen IDE. 
+
+## Notes
 
 Seperate README files are in their respective folders
